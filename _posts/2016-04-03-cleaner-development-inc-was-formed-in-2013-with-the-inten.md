@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Cleaner Development, Inc was formed in 2013. \_With the intent of starting and developing interests in many businesses across multiple sectors. \_Our goal of utilizing our diverse experience, our financial intelligence along with our social and environmental sensitivities has allowed us to quickly rise as a leader. \_"
-datePublished: '2016-04-03T23:26:33.728Z'
-dateModified: '2016-04-03T23:26:16.746Z'
+datePublished: '2016-04-03T23:29:12.267Z'
+dateModified: '2016-04-03T23:26:38.760Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-cleaner-development-inc-was-formed-in-2013-with-the-inten.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-cleaner-development-inc-was-formed-in-2013-with-the-inten.md
-published: true
 url: cleaner-development-inc-was-formed-in-2013-with-the-inten/index.html
 _type: Article
 
