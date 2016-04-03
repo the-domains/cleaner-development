@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cleaner Development]]></title>
-        <description><![CDATA[Cleaner Development]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cleaner Development, Inc]]></title>
+        <description><![CDATA[Cleaner Development, Inc]]></description>
+        <link>https://thegrid.ai/cleaner-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 23:26:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 23:29:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cleaner-development/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Cleaner Development, Inc was formed in 2013.  With the intent of starting and developing interests in many businesses across multiple sectors.  Our goal of utilizing our diverse experience, our financial intelligence along with our social and environmental sensitivities has allowed us to quickly rise as a leader.  </p>]]></description>
-            <link>undefinedcleaner-development-inc-was-formed-in-2013-with-the-inten/index.html</link>
+            <link>https://thegrid.ai/cleaner-development/cleaner-development-inc-was-formed-in-2013-with-the-inten/index.html</link>
             <guid isPermaLink="false">a925454b-08d6-4c0e-b5aa-124e2c164d8a</guid>
-            <pubDate>Sun, 03 Apr 2016 23:26:33 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 23:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
