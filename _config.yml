@@ -1,7 +1,7 @@
-name: Cleaner Development
+name: 'Cleaner Development, Inc'
 favicon: null
-layout_spectrum: 0.9128264021128416
-typography_spectrum: 0.9908265727572143
+layout_spectrum: 0.9215
+typography_spectrum: 0.71715
 title: 'Cleaner Development, Inc'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6313097022939473
-  lightness: 0.6454864162951708
-  saturation: 0.1293114610016346
-  rhythmicContrast: 0.5102952204179019
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
